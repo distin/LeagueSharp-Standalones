@@ -77,16 +77,16 @@ namespace SFXRelic.Data
                         120f, 33f, new Vector3(6950.65f, 12107.11f, -164.55f), "odin_heal_rune.troy",
                         Utility.Map.MapType.CrystalScar),
                     new RelicObject(
-                        190f, 60f, new Vector3(4788.07f, 3946.24f, -178.31f), "HA_AP_healingBuff.troy",
+                        190f, 62f, new Vector3(4788.07f, 3946.24f, -178.31f), "HA_AP_healingBuff.troy",
                         Utility.Map.MapType.HowlingAbyss),
                     new RelicObject(
-                        190f, 60f, new Vector3(5932.09f, 5198.93f, -178.31f), "HA_AP_healingBuff.troy",
+                        190f, 62f, new Vector3(5932.09f, 5198.93f, -178.31f), "HA_AP_healingBuff.troy",
                         Utility.Map.MapType.HowlingAbyss),
                     new RelicObject(
-                        190f, 60f, new Vector3(7585.05f, 6791.29f, -178.31f), "HA_AP_healingBuff.troy",
+                        190f, 62f, new Vector3(7585.05f, 6791.29f, -178.31f), "HA_AP_healingBuff.troy",
                         Utility.Map.MapType.HowlingAbyss),
                     new RelicObject(
-                        190f, 60f, new Vector3(8894.17f, 7884.20f, -178.31f), "HA_AP_healingBuff.troy",
+                        190f, 62f, new Vector3(8894.17f, 7884.20f, -178.31f), "HA_AP_healingBuff.troy",
                         Utility.Map.MapType.HowlingAbyss)
                 };
             }
